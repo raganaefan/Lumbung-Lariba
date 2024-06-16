@@ -50,10 +50,10 @@ export default function HomePage() {
         <h3 className="mt-4 text-xl text-white md:mx-20 lg:mx-40 xl:mx-40 2xl:mx-40">
           Our mission is to empower businesses with cutting-edge technology and
           innovative strategies to maximize their online potential. We believe
-          in creating customized solutions that align with our clients' unique
-          goals and objectives. By focusing on user experience and leveraging
-          the latest advancements in technology, we ensure that our clients stay
-          ahead in the competitive eCommerce landscape.
+          in creating customized solutions that align with our clients&apos;
+          unique goals and objectives. By focusing on user experience and
+          leveraging the latest advancements in technology, we ensure that our
+          clients stay ahead in the competitive eCommerce landscape.
         </h3>
         <GlanceServicesCard />
         <button className="mt-5 flex w-2/3 justify-center rounded-2xl bg-white py-2 md:w-1/3 lg:w-1/6">

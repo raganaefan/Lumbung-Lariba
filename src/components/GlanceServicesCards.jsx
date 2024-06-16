@@ -38,7 +38,7 @@ const glanceServices = [
       />
     ),
     service: "SEO Optimization",
-    description: "Enhancing your website's visibility on search engines.",
+    description: "Enhancing your website visibility on search engines.",
   },
   {
     image: (

@@ -11,7 +11,7 @@ export default function Footer() {
           className="ml-3 w-20 bg-cover opacity-50 sm:w-20"
         />
         <p className="text-center text-white sm:mr-10">
-          © 2024 Lumbung Lariba
+          &copy; 2024 Lumbung Lariba
         </p>
       </footer>
     </>

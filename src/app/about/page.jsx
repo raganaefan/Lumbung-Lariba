@@ -37,7 +37,7 @@ export default function AboutUsPage() {
               Our team of experts brings together years of experience and a
               passion for excellence, ensuring that we deliver the best results
               for our clients. We believe in creating customized solutions that
-              align with our clients' unique goals and objectives.
+              align with our clients&apos; unique goals and objectives.
             </p>
           </div>
         </div>
