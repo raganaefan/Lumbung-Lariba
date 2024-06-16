@@ -51,9 +51,10 @@ export default function AboutUsPage() {
             Our mission is to empower businesses with cutting-edge technology
             and innovative strategies to maximize their online potential. We
             believe in creating customized solutions that align with our
-            clients' unique goals and objectives. By focusing on user experience
-            and leveraging the latest advancements in technology, we ensure that
-            our clients stay ahead in the competitive eCommerce landscape.
+            clients&apos; unique goals and objectives. By focusing on user
+            experience and leveraging the latest advancements in technology, we
+            ensure that our clients stay ahead in the competitive eCommerce
+            landscape.
           </p>
         </div>
       </section>
